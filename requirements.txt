@@ -1,0 +1,7 @@
+ollama
+langid
+pytesseract
+langcodes
+tqdm
+pymupdf
+opencv-python-headless
